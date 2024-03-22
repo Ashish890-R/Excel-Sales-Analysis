@@ -2,8 +2,7 @@
 
 **Project objective**:
 
-1. Create a 
-[Customer Performance Report.pdf](https://github.com/Ashish890-R/Excel-Sales-Analysis/files/14714837/Customer.Performance.Report.pdf)
+1. Create a https://github.com/Ashish890-R/Excel-Sales-Analysis/blob/main/Customer%20Performance%20Report.pdf
 
 2. Conduct a comprehensive comparison between 
 [Market Performance vs Target Report.pdf](https://github.com/Ashish890-R/Excel-Sales-Analysis/files/14714991/Market.Performance.vs.Target.Report.pdf)
