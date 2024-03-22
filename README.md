@@ -2,7 +2,7 @@
 
 **Project objective**:
 
-1. Create a https://github.com/Ashish890-R/Excel-Sales-Analysis/blob/main/Customer%20Performance%20Report.pdf
+1. Create a 
 
 2. Conduct a comprehensive comparison between market performance and sales targets
 
@@ -26,25 +26,25 @@ Importance of analyzing Finance data: Aid in benchmarking against industry peers
 Role of reports: Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 **Technical & Soft Skills**:--
- Proficiency in** ETL** methodology (Extract, Transform, Load).
+        *Proficiency in** ETL** methodology (Extract, Transform, Load).
  
- Skills to generate a date table using **Power Query**.
+        *Skills to generate a date table using **Power Query**.
  
- Ability to derive fiscal months and quarters.
+        *Ability to derive fiscal months and quarters.
  
- Establishing data model relationships with **Power Pivot**.
+        *Establishing data model relationships with **Power Pivot**.
  
- Proficiency in incorporating supplementary data into an existing **data model**.
+        *Proficiency in incorporating supplementary data into an existing **data model**.
  
- Utilizing **DAX** to create calculated columns.
+        *Utilizing **DAX** to create calculated columns.
  
 **Soft Skills**:--
 
- Refined understanding of Sales & Finance Reports
+        *Refined understanding of Sales & Finance Reports
  
- Designing user-centric reports with empathy in mind.
+        *Designing user-centric reports with empathy in mind.
  
- Optimization of report generation through meticulous fine-tuning.
+        *Optimization of report generation through meticulous fine-tuning.
  
- Developing a systematic approach to devising a report-building plan.
+        *Developing a systematic approach to devising a report-building plan.
  
