@@ -2,7 +2,8 @@
 
 **Project objective**:
 
-1. Create a https://github.com/Ashish890-R/Excel-Sales-Analysis/blob/main/Customer%20Performance%20Report.pdf
+1. Create a [Customer.Performance.Report.pdf](https://github.com/Ashish890-R/Excel-Sales-Analysis/files/14715165/Customer.Performance.Report.pdf)
+
 
 2. Conduct a comprehensive comparison between 
 [Market Performance vs Target Report.pdf](https://github.com/Ashish890-R/Excel-Sales-Analysis/files/14714991/Market.Performance.vs.Target.Report.pdf)
@@ -30,25 +31,25 @@ Importance of analyzing Finance data: Aid in benchmarking against industry peers
 Role of reports: Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 **Technical & Soft Skills**:--
-        Proficiency in** ETL** methodology (Extract, Transform, Load).
+   1.Proficiency in** ETL** methodology (Extract, Transform, Load).
  
-        Skills to generate a date table using **Power Query**.
+   2.Skills to generate a date table using **Power Query**.
  
-        Ability to derive fiscal months and quarters.
+   3.Ability to derive fiscal months and quarters.
  
-        Establishing data model relationships with **Power Pivot**.
+   4.Establishing data model relationships with **Power Pivot**.
  
-        Proficiency in incorporating supplementary data into an existing **data model**.
+   5.Proficiency in incorporating supplementary data into an existing **data model**.
  
-        Utilizing **DAX** to create calculated columns.
+   6.Utilizing **DAX** to create calculated columns.
  
 **Soft Skills**:--
 
-        Refined understanding of Sales & Finance Reports
+    1.Refined understanding of Sales & Finance Reports
  
-        Designing user-centric reports with empathy in mind.
+    2.Designing user-centric reports with empathy in mind.
  
-        Optimization of report generation through meticulous fine-tuning.
+    3.Optimization of report generation through meticulous fine-tuning.
  
-        Developing a systematic approach to devising a report-building plan.
+    4.Developing a systematic approach to devising a report-building plan.
  
